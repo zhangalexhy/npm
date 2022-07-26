@@ -20,9 +20,13 @@
     }
   ],
   "bugs": {
-    "email": "1185716908@qq.com"
+    "email": "1185716908@qq.com",
+    "url": "https://github.com/zhangalexhy/npm/issues"
   },
   "license": "ISC",
   "private": true,
-  "homepage": "https://github.com/zhangalexhy/npm.git"
+  "homepage": "https://github.com/zhangalexhy/npm.git",
+  "bin": {
+    "zmm": "bin/zmm.js"
+  }
 }
